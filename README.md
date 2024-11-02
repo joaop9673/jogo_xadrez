@@ -1,2 +1,2 @@
-# wikibooks
-Wikibooks é um projeto dedicado ao conteúdo livre. 
+# Jogo de Xadrez
+E mais uma tabela de raquemento  
